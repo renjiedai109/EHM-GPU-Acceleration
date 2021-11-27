@@ -6,5 +6,4 @@ pandas~=1.2.4
 scipy~=1.6.3
 pydegensac~=0.1.2
 opencv-python~=4.5.3.56
-
-matplotlib
+numba~=0.54.0
